@@ -1,0 +1,20 @@
+.gitignore
+
+#object files
+*.o
+*.ko
+*.obj
+*.elf
+
+
+# CLion project files
+.idea
+cmake-build-*
+
+# visual studio code
+.vscode
+
+# libcurl binaries
+/build
+tags
+tags.lock
